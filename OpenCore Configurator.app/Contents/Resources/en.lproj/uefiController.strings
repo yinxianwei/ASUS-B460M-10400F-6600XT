@@ -50,14 +50,14 @@
 /* Class = "NSButtonCell"; title = "Scan/Browse"; ObjectID = "CLg-lY-N26"; */
 "CLg-lY-N26.title" = "Scan/Browse";
 
+/* Class = "NSTextFieldCell"; title = "PointerDwellDoubleClickTimeout"; ObjectID = "DmX-u0-OVQ"; */
+"DmX-u0-OVQ.title" = "PointerDwellDoubleClickTimeout";
+
 /* Class = "NSTextFieldCell"; title = "KeySupportMode"; ObjectID = "EeU-wj-caf"; */
 "EeU-wj-caf.title" = "KeySupportMode";
 
 /* Class = "NSButtonCell"; title = "PointerSupport"; ObjectID = "Elq-pL-QTD"; */
 "Elq-pL-QTD.title" = "PointerSupport";
-
-/* Class = "NSTextFieldCell"; title = "VolumeAmplifier"; ObjectID = "En7-ww-Uj5"; */
-"En7-ww-Uj5.title" = "VolumeAmplifier";
 
 /* Class = "NSTextFieldCell"; title = "KeyForgetThreshold"; ObjectID = "ErN-ks-EzO"; */
 "ErN-ks-EzO.title" = "KeyForgetThreshold";
@@ -76,6 +76,9 @@
 
 /* Class = "NSTextFieldCell"; title = "KeySubsequentDelay"; ObjectID = "JWy-Kv-Tq6"; */
 "JWy-Kv-Tq6.title" = "KeySubsequentDelay";
+
+/* Class = "NSTableColumn"; headerCell.title = "LoadEarly"; ObjectID = "Jlh-ZM-CXj"; */
+"Jlh-ZM-CXj.headerCell.title" = "LoadEarly";
 
 /* Class = "NSTableColumn"; headerCell.title = "Arguments"; ObjectID = "Kuw-7J-hNc"; */
 "Kuw-7J-hNc.headerCell.title" = "Arguments";
@@ -106,6 +109,9 @@
 
 /* Class = "NSTextFieldCell"; title = "TextRenderer"; ObjectID = "QQF-qM-yZS"; */
 "QQF-qM-yZS.title" = "TextRenderer";
+
+/* Class = "NSTextFieldCell"; title = "PointerDwellClickTimeout"; ObjectID = "RZd-HV-DG2"; */
+"RZd-HV-DG2.title" = "PointerDwellClickTimeout";
 
 /* Class = "NSTextFieldCell"; title = "AppleEvent"; ObjectID = "SCl-CT-PaY"; */
 "SCl-CT-PaY.title" = "AppleEvent";
@@ -158,9 +164,6 @@
 /* Class = "NSButtonCell"; title = "HideVerbose"; ObjectID = "egr-8J-RIS"; */
 "egr-8J-RIS.title" = "HideVerbose";
 
-/* Class = "NSTextFieldCell"; title = "MinimumVolume"; ObjectID = "ehu-K3-gbY"; */
-"ehu-K3-gbY.title" = "MinimumVolume";
-
 /* Class = "NSMenuItem"; title = "DEFAULT"; ObjectID = "fZq-zJ-tYW"; */
 "fZq-zJ-tYW.title" = "DEFAULT";
 
@@ -182,8 +185,8 @@
 /* Class = "NSButtonCell"; title = "Connect Drivers"; ObjectID = "kBk-75-acl"; */
 "kBk-75-acl.title" = "Connect Drivers";
 
-/* Class = "NSTextFieldCell"; title = "AudioOut"; ObjectID = "kM6-tO-pns"; */
-"kM6-tO-pns.title" = "AudioOut";
+/* Class = "NSTextFieldCell"; title = "PointerDwellRadius"; ObjectID = "lHf-lz-TLM"; */
+"lHf-lz-TLM.title" = "PointerDwellRadius";
 
 /* Class = "NSTableColumn"; headerCell.title = "Address"; ObjectID = "ldi-uY-9wO"; */
 "ldi-uY-9wO.headerCell.title" = "Address";

@@ -101,6 +101,9 @@
 /* Class = "NSTextFieldCell"; title = "Display Delay"; ObjectID = "FHv-7q-Wq3"; */
 "FHv-7q-Wq3.title" = "Display Delay";
 
+/* Class = "NSButtonCell"; title = "HibernateSkipsPicker"; ObjectID = "FqN-SK-uy8"; */
+"FqN-SK-uy8.title" = "HibernateSkipsPicker";
+
 /* Class = "NSButtonCell"; title = "SysReport"; ObjectID = "GOG-QD-oyI"; */
 "GOG-QD-oyI.title" = "SysReport";
 
@@ -223,6 +226,9 @@
 
 /* Class = "NSButtonCell"; title = "OC_SCAN_ALLOW_FS_LINUX_DATA"; ObjectID = "aQY-Kx-ZCy"; */
 "aQY-Kx-ZCy.title" = "OC_SCAN_ALLOW_FS_LINUX_DATA";
+
+/* Class = "NSTableColumn"; headerCell.title = "FullNvramAccess"; ObjectID = "aR1-5z-cNz"; */
+"aR1-5z-cNz.headerCell.title" = "FullNvramAccess";
 
 /* Class = "NSTextFieldCell"; title = "Scan Policy"; ObjectID = "aUx-rK-UTX"; */
 "aUx-rK-UTX.title" = "Scan Policy";
