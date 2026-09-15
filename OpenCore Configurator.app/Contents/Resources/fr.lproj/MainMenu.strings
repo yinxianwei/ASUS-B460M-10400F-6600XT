@@ -1,4 +1,7 @@
 
+/* Class = "NSMenuItem"; title = "Advanced OpenCore Validator"; ObjectID = "05d-N1-WMO"; */
+"05d-N1-WMO.title" = "Advanced OpenCore Validator";
+
 /* Class = "NSToolbarItem"; label = "Bootloader Settings"; ObjectID = "11s-5L-eLA"; */
 "11s-5L-eLA.label" = "Paramètres du chargeur de démarrage";
 
@@ -100,6 +103,9 @@
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; */
 "BgM-ve-c93.title" = "\tDe gauche à droite";
+
+/* Class = "NSTextFieldCell"; title = "*To apply this change, you must restart the app"; ObjectID = "B6M-Or-Bxn"; */
+"B6M-Or-Bxn.title" = "*Pour appliquer cette modification, vous devez redémarrer l'application";
 
 /* Class = "NSMenuItem"; title = "Templates"; ObjectID = "BtA-nJ-hmS"; */
 "BtA-nJ-hmS.title" = "Modèles";
@@ -242,6 +248,9 @@
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
 "Oyz-dy-DGm.title" = "Arrêter la lecture";
 
+/* Class = "NSMenuItem"; title = "Themes Validator"; ObjectID = "Pd1-qG-fZC"; */
+"Pd1-qG-fZC.title" = "Themes Validator";
+
 /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "Ptp-SP-VEL"; */
 "Ptp-SP-VEL.title" = "Plus grand";
 
@@ -250,6 +259,9 @@
 
 /* Class = "NSMenuItem"; title = "SampleCustom.plist"; ObjectID = "QT1-6J-6cg"; */
 "QT1-6J-6cg.title" = "SampleCustom.plist";
+
+/* Class = "NSTextFieldCell"; title = "Set background color"; ObjectID = "Qix-AP-RAT"; */
+"Qix-AP-RAT.title" = "Set background color";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "Zoom";
@@ -326,6 +338,9 @@
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "agt-UL-0e3"; */
 "agt-UL-0e3.title" = "Utiliser par défaut";
 
+/* Class = "NSTextFieldCell"; title = "*Select this option before loading"; ObjectID = "axu-Hn-1ar"; */
+"axu-Hn-1ar.title" = "*Select this option before loading";
+
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "b8C-wR-FEF"; */
 "b8C-wR-FEF.title" = "Ouvrir...";
 
@@ -371,11 +386,17 @@
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "Coller";
 
+/* Class = "NSButtonCell"; title = "Automatically open on mounting partition"; ObjectID = "hGr-Mh-IHj"; */
+"hGr-Mh-IHj.title" = "Automatically open on mounting partition";
+
 /* Class = "NSTextFieldCell"; title = "*To apply this change, you must restart the app"; ObjectID = "hOZ-ZL-z15"; */
 "hOZ-ZL-z15.title" = "*Pour appliquer cette modification, vous devez redémarrer l'application";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
 "hQb-2v-fYv.title" = "Symboles de citations intelligentes";
+
+/* Class = "NSButtonCell"; title = "Automatically validate when open and after save"; ObjectID = "hZ1-xh-Dbo"; */
+"hZ1-xh-Dbo.title" = "Automatically validate when open and after save";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
 "hz2-CU-CR7.title" = "Vérifiez le document maintenant";
@@ -418,6 +439,9 @@
 
 /* Class = "NSMenuItem"; title = "OpenCore Downloader"; ObjectID = "jxp-Hf-MpR"; */
 "jxp-Hf-MpR.title" = "Téléchargement OpenCore";
+
+/* Class = "NSButtonCell"; title = "Keep unknown keys and values"; ObjectID = "lOQ-4j-DWS"; */
+"lOQ-4j-DWS.title" = "Keep unknown keys and values";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "lZi-F2-Buy"; */
 "lZi-F2-Buy.title" = "Ouvrir récent";
@@ -511,6 +535,9 @@
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
 "vmV-6d-7jI.title" = "Mettre en majuscules";
+
+/* Class = "NSMenuItem"; title = "EFI Maker"; ObjectID = "vnI-1Z-o5O"; */
+"vnI-1Z-o5O.title" = "EFI Maker";
 
 /* Class = "NSMenu"; title = "Ligatures"; ObjectID = "w0m-vy-SC9"; */
 "w0m-vy-SC9.title" = "Liaisons";

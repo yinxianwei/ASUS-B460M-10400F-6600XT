@@ -1,5 +1,5 @@
 
-/* Class = "NSMenuItem"; title = "OpenCore Validator"; ObjectID = "05d-N1-WMO"; */
+/* Class = "NSMenuItem"; title = "Advanced OpenCore Validator"; ObjectID = "05d-N1-WMO"; */
 "05d-N1-WMO.title" = "OC官方配置文件验证器";
 
 /* Class = "NSToolbarItem"; label = "Bootloader Settings"; ObjectID = "11s-5L-eLA"; */
@@ -103,6 +103,9 @@
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; */
 "BgM-ve-c93.title" = "\t左到右";
+
+/* Class = "NSTextFieldCell"; title = "*To apply this change, you must restart the app"; ObjectID = "B6M-Or-Bxn"; */
+"B6M-Or-Bxn.title" = "*要应用此更改,您必须重新启动应用程序";
 
 /* Class = "NSMenuItem"; title = "Templates"; ObjectID = "BtA-nJ-hmS"; */
 "BtA-nJ-hmS.title" = "配置模板";
@@ -335,6 +338,9 @@
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "agt-UL-0e3"; */
 "agt-UL-0e3.title" = "使用默认";
 
+/* Class = "NSTextFieldCell"; title = "*Select this option before loading"; ObjectID = "axu-Hn-1ar"; */
+"axu-Hn-1ar.title" = "*加载前选择此选项";
+
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "b8C-wR-FEF"; */
 "b8C-wR-FEF.title" = "打开…";
 
@@ -380,11 +386,17 @@
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "粘贴";
 
+/* Class = "NSButtonCell"; title = "Automatically open on mounting partition"; ObjectID = "hGr-Mh-IHj"; */
+"hGr-Mh-IHj.title" = "挂载分区后自动打开";
+
 /* Class = "NSTextFieldCell"; title = "*To apply this change, you must restart the app"; ObjectID = "hOZ-ZL-z15"; */
 "hOZ-ZL-z15.title" = "*要应用此更改,您必须重新启动应用程序";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
 "hQb-2v-fYv.title" = "智能引号";
+
+/* Class = "NSButtonCell"; title = "Automatically validate when open and after save"; ObjectID = "hZ1-xh-Dbo"; */
+"hZ1-xh-Dbo.title" = "打开和保存后自动验证配置文件";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
 "hz2-CU-CR7.title" = "立即检查文档";
@@ -427,6 +439,9 @@
 
 /* Class = "NSMenuItem"; title = "OpenCore Downloader"; ObjectID = "jxp-Hf-MpR"; */
 "jxp-Hf-MpR.title" = "OpenCore下载器";
+
+/* Class = "NSButtonCell"; title = "Keep unknown keys and values"; ObjectID = "lOQ-4j-DWS"; */
+"lOQ-4j-DWS.title" = "保持未知的选项和内容";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "lZi-F2-Buy"; */
 "lZi-F2-Buy.title" = "最近打开";
