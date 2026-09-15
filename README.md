@@ -1,3 +1,2 @@
-macOS Ventura 13.7.4 (22H420)
-
-OpenCore 0.8.9
+macOS Tahoe 26.6 (25G72)
+OpenCore 1.0.7
